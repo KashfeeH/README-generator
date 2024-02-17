@@ -1,8 +1,8 @@
 # Module 11 Challenge: README Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+  [!License: MIT(https://img.shields.io/badge/License-MIT-yellow.svg)]
   
   ## Description 
-  A CLI based application where inquirer takes users prompts and creates professional READMEs.
+  A CLI based application where inquirer prompts questions and based on User's answers creates professional READMEs.
   
   ## Table of Contents
   * [Installation](#installation)
@@ -22,7 +22,7 @@
   Distributed under the MIT License. See LICENSE.txt for more information.
  
   ## Contributions 
-  As I am novice in this field any contribution/suggestions wuld be highly appreciated.
+  As I am novice in this field any contribution/suggestions wuld be highly appreciated.Also please refer to installation instructions.
  
   ## Test
   npm test
