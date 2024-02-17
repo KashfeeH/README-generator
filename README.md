@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
   
   ## Description 
-  A CLI based application where inquirer prompts questions and based on User's answers creates professional READMEs.
+  A CLI based application that takes user's input via inquirer and returns a professional readme.
   
   ## Table of Contents
   * [Installation](#installation)
@@ -13,16 +13,16 @@
   * [Questions](#questions)
   
   ## Installation 
-  Clone the repository and download node as well as the necessary version of inquirer.
+  Clone the github repo and download node.js as well as necessary version of inquirer.
   
   ## Usage 
-  Open index.js in CLI and answers the questions prompted by inquirer based on your project.
+  Open index.js in CLI and inquirer will prompt questions related to the project.
   
   ## License 
   Distributed under the MIT License. See LICENSE.txt for more information.
  
   ## Contributions 
-  As I am novice in this field any contribution/suggestions wuld be highly appreciated.Also please refer to installation instructions.
+  As I am a novice in this field, suggestions or contributions would be much appreciated. Please refer to the installation instructions.
  
   ## Test
   npm test
